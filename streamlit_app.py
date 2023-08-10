@@ -6,7 +6,7 @@ my_fruit_list = my_fruit_list.set_index('Fruit')
 
 streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header('Colin menu')
+streamlit.header('Maxims menu')
 streamlit.snow()
 streamlit.text('🥣 Omega3 &  Blueberry Oatmeal')
 
