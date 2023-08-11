@@ -27,3 +27,5 @@ st.dataframe(fruits_to_show)
 
 st.divider()
 my_button = st.button(label="Click me")
+
+st.divider()
