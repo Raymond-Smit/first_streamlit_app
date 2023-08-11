@@ -13,7 +13,7 @@ st.text('🥗 Kale, Spinanch & Rocket Smoothie')
 
 st.text('🐔 Hard-boiled Free-Range Egg')
 
-st.text('🥑🍞 Avocado Toast')
+st.text('🥑🍞 Avocado Toasts')
 
 st.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
