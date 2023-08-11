@@ -6,7 +6,7 @@ my_fruit_list = my_fruit_list.set_index('Fruit')
 
 st.title('My Parents New Healthy Diner')
 
-st.header('Maxims menu')
+st.header('Maxims en Colins menu')
 st.text('🥣 Omega3 &  Blueberry Oatmeal')
 
 st.text('🥗 Kale, Spinanch & Rocket Smoothie')
